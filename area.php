@@ -15,7 +15,7 @@ function arearectangle($a,$b){
     }
     $result=areatriangle(7,8);
     echo $result;
-    
+    /*Hello*/
     echo"<br />";
     
     function areacircle($a){
